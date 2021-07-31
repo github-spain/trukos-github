@@ -25,6 +25,9 @@ ver el log
 ```
 git log -3
 ```
+```
+git log -5 --pretty=oneline
+```
 
 Descartar los cambios. Regresa todo al último commit de la rama
 ```
