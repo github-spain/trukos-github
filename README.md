@@ -1,4 +1,4 @@
-# trukos-github
+# Trukos Github
 
 ver el log
 ```
