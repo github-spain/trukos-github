@@ -1,4 +1,8 @@
 # Trukos Github
+ver lo que tenemos local
+```
+git status
+```
 
 ver rama
 ```
