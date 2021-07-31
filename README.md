@@ -1,5 +1,26 @@
 # Trukos Github
 
+ver rama
+```
+git branch
+```
+
+Crear una rama
+```
+git checkout -b branchname
+```
+
+Eliminar una rama
+```
+git checkout -d branchname
+```
+
+Unir Rama
+```
+git checkout master
+git merge branchname
+```
+
 ver el log
 ```
 git log -3
