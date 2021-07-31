@@ -1,4 +1,9 @@
 # Trukos Github
+ver diferencias
+```
+git diff
+```
+
 ver lo que tenemos local
 ```
 git status
