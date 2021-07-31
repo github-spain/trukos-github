@@ -4,6 +4,11 @@ ver diferencias
 git diff
 ```
 
+ver lo modificado en un commit
+```
+git show <COMMIT>
+```
+
 ver lo que tenemos local
 ```
 git status
