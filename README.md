@@ -1,4 +1,9 @@
-# Trukos Github
+# Trukos Github y PIP
+
+```
+pip freeze > requirements.txt
+```
+
 ver diferencias
 ```
 git diff
