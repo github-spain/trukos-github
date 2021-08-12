@@ -1,5 +1,12 @@
 # Trukos Github y PIP
 
+Tag
+```
+git tag 
+git tag 0.0.1
+git push --tags && push origin master
+```
+
 ```
 pip freeze > requirements.txt
 pip install -r requirements.txt
